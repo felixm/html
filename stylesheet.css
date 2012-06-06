@@ -1,0 +1,35 @@
+
+
+.left_column    {
+    margin-right:170px;
+}
+.right_column    {
+    float:right;
+    width:160px;
+}
+#nav_container {
+    list-style-type:none;
+    background-color:blue; 
+    margin-bottom:15px;
+}
+
+ul li {
+    display:inline-block;   
+}
+
+li a {
+  display:inline-block;
+  text-decoration:none;
+  padding:5px;
+  color:yellow;
+}
+
+li a:hover {
+    background-color:purple;
+}
+#main_content   {
+    background-image: url(http://huntsy.com/assets/blue_thatch.png);
+     background-repeat: repeat;
+     margin:auto;
+}
+
